@@ -1,0 +1,26 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      SA_PASSWORD: "YourStrong@Passw0rd"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    networks:
+      - mynetwork
+
+  liveelectric2.server:
+    image: ${DOCKER_REGISTRY-}liveelectric2server
+    build:
+      context: .
+      dockerfile: LiveElectric2.Server/Dockerfile
+    environment:
+      ConnectionStrings__DefaultConnection: "Server=sqlserver,1433;Database=bbb;User Id=SA;Password=YourStrong@Passw0rd;TrustServerCertificate=True;"
+    depends_on:
+      - sqlserver
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge

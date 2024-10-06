@@ -1,0 +1,595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241006173204_ChUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiveElectric2.Server\\Migrations\\20241006173204_ChUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\liveelectric2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\liveelectric2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241006170447_AddUserProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiveElectric2.Server\\Migrations\\20241006170447_AddUserProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\migrations\\20241001200937_chproducts2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\migrations\\20241001200937_chproducts2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\migrations\\20241001200809_chproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\migrations\\20241001200809_chproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\migrations\\20241001194214_addproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\migrations\\20241001194214_addproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\migrations\\20240930080048_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\migrations\\20240930080048_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\concretemealplanbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\concretemealplanbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\imealplanbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\imealplanbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\mealplandirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\mealplandirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0293DC-B295-4A8B-A570-DFBC3874C87E}|docker-compose.dcproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C0293DC-B295-4A8B-A570-DFBC3874C87E}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0293DC-B295-4A8B-A570-DFBC3874C87E}|docker-compose.dcproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C0293DC-B295-4A8B-A570-DFBC3874C87E}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0293DC-B295-4A8B-A570-DFBC3874C87E}|docker-compose.dcproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C0293DC-B295-4A8B-A570-DFBC3874C87E}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\dockerfile.original||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\dockerfile.original||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35FBD4B-7CA7-4A16-985D-2A1D40D5BCAC}|LiveElectric2.AppHost\\LiveElectric2.AppHost.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E35FBD4B-7CA7-4A16-985D-2A1D40D5BCAC}|LiveElectric2.AppHost\\LiveElectric2.AppHost.csproj|solutionrelative:liveelectric2.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|e:\\\u044F\\\u043A\u043F5\u0441\u0435\u043C\\liveelectric2\\liveelectric2.server\\migrations\\20240930080048_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114BA868-F430-4D11-AE74-B1D779EB9CFC}|LiveElectric2.Server\\LiveElectric2.Server.csproj|solutionrelative:liveelectric2.server\\migrations\\20240930080048_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241006173204_ChUser.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241006173204_ChUser.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20241006173204_ChUser.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241006173204_ChUser.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20241006173204_ChUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:32:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Program.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Program.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Program.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:52:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:57:01.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\User.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\User.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:26:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\ApplicationContext.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:57:19.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\UserProfile.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\UserProfile.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:34:58.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LiveElectric2.Server.csproj",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\LiveElectric2.Server.csproj",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\LiveElectric2.Server.csproj",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\LiveElectric2.Server.csproj",
+              "RelativeToolTip": "LiveElectric2.Server\\LiveElectric2.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T07:51:36.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:37:04.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\AuthOptions.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\AuthOptions.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\AuthOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:12:42.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241006170447_AddUserProfile.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241006170447_AddUserProfile.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20241006170447_AddUserProfile.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241006170447_AddUserProfile.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20241006170447_AddUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:04:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\Ingredient.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\Ingredient.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:25:09.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:02:52.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241001200937_ChProducts2.Designer.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.Designer.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.Designer.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.Designer.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:02:33.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\appsettings.json",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\appsettings.json",
+              "RelativeToolTip": "LiveElectric2.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T08:01:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241001200809_ChProducts.Designer.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.Designer.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.Designer.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.Designer.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:02:26.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241001194214_AddProducts.Designer.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.Designer.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.Designer.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.Designer.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:02:18.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240930080048_InitialCreate.Designer.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20240930080048_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20240930080048_InitialCreate.Designer.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20240930080048_InitialCreate.Designer.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20240930080048_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:02:02.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMealPlanBuilder.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\IMealPlanBuilder.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\IMealPlanBuilder.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\IMealPlanBuilder.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\IMealPlanBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:11:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConcreteMealPlanBuilder.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\ConcreteMealPlanBuilder.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\ConcreteMealPlanBuilder.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\ConcreteMealPlanBuilder.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\ConcreteMealPlanBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:13:04.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IngredientsController.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Controllers\\IngredientsController.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Controllers\\IngredientsController.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Controllers\\IngredientsController.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Controllers\\IngredientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:05:35.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MealPlan.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\MealPlan.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\MealPlan.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\MealPlan.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\MealPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:09:50.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MealPlanDirector.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\MealPlanDirector.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\MealPlanDirector.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\MealPlanDirector.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\MealPlanDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:14:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Models\\Product.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Models\\Product.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:19:11.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241001200937_ChProducts2.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20241001200937_ChProducts2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:09:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241001200809_ChProducts.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20241001200809_ChProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:08:09.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241001194214_AddProducts.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20241001194214_AddProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:42:14.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-30T08:05:13.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Dockerfile",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Dockerfile",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Dockerfile",
+              "RelativeToolTip": "LiveElectric2.Server\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T08:28:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Dockerfile.original",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Dockerfile.original",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Dockerfile.original",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Dockerfile.original",
+              "RelativeToolTip": "LiveElectric2.Server\\Dockerfile.original",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T08:29:30.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAKEBAAAAAAAAAAArwK0BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-30T13:42:15.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T12:39:40.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T08:05:10.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "LiveElectric2.AppHost\\appsettings.json",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.AppHost\\appsettings.json",
+              "RelativeToolTip": "LiveElectric2.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T11:55:37.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240930080048_InitialCreate.cs",
+              "DocumentMoniker": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20240930080048_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LiveElectric2.Server\\Migrations\\20240930080048_InitialCreate.cs",
+              "ToolTip": "E:\\\u042F\\\u043A\u043F5\u0441\u0435\u043C\\LiveElectric2\\LiveElectric2.Server\\Migrations\\20240930080048_InitialCreate.cs",
+              "RelativeToolTip": "LiveElectric2.Server\\Migrations\\20240930080048_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:00:48.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

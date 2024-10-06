@@ -1,0 +1,12 @@
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\bin\Debug\net8.0\LiveElectric2.ServiceDefaults.deps.json
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\bin\Debug\net8.0\LiveElectric2.ServiceDefaults.dll
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\bin\Debug\net8.0\LiveElectric2.ServiceDefaults.pdb
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\LiveElectric2.ServiceDefaults.csproj.AssemblyReference.cache
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\LiveElectric2.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\LiveElectric2.ServiceDefaults.AssemblyInfoInputs.cache
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\LiveElectric2.ServiceDefaults.AssemblyInfo.cs
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\LiveElectric2.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\LiveElectric2.ServiceDefaults.dll
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\refint\LiveElectric2.ServiceDefaults.dll
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\LiveElectric2.ServiceDefaults.pdb
+E:\Я\кп5сем\LiveElectric2\LiveElectric2.ServiceDefaults\obj\Debug\net8.0\ref\LiveElectric2.ServiceDefaults.dll

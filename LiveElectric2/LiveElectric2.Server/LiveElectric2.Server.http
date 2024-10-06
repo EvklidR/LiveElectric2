@@ -1,0 +1,6 @@
+@LiveElectric2.Server_HostAddress = http://localhost:5226
+
+GET {{LiveElectric2.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

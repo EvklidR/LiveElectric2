@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "7KF+ZhZSiktJZFHk3pvL2524T+vpYx7GdslloGkBlkU=",
+  "Source": "LiveElectric2.Server",
+  "BasePath": "_content/LiveElectric2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Я\\кп5сем\\LiveElectric2\\liveelectric2.client\\liveelectric2.client.esproj",
+      "Version": 2,
+      "Source": "liveelectric2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
